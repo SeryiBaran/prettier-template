@@ -1,4 +1,4 @@
-#prettier-template
+# prettier-template
 
 Это шаблон настроки пакета Prettier, он нужен чтобы форматировать файлы HTML, CSS и JS.
 
